@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 53
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 258248712, guid: a215bd465061e3c4abe0b86c7c8c3d14, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _assetMappings:
+  - Guid: ce9a88713198aa9469be2613d4800686
+    StoreId: 67a39e76df4ecdd988199e0c
+    Name: Shader RGB
+    ThumbnailUrl: https://d4v5j9dz6t9fz.cloudfront.net/web_uploads/65578f9c6ac78426d7d927ea/67a39e76df4ecdd988199e0c/4d723aa29.jpeg
+    AdditionalImageUrls:
+    - https://d4v5j9dz6t9fz.cloudfront.net/web_uploads/65578f9c6ac78426d7d927ea/67a39e76df4ecdd988199e0c/194d724dd68_0.png
+    - https://d4v5j9dz6t9fz.cloudfront.net/web_uploads/65578f9c6ac78426d7d927ea/67a39e76df4ecdd988199e0c/194d724dd68_1.png
+    - https://d4v5j9dz6t9fz.cloudfront.net/web_uploads/65578f9c6ac78426d7d927ea/67a39e76df4ecdd988199e0c/194d724dd68_2.png
+    AdditionalAssetGUIDs:
+    - ce9a88713198aa9469be2613d4800686
+    - da9ea147d2e951941bc05971ce43e91b
+    - 7af7b4c77a011284dba6b146155beb82
+    IsBundle: 0
+  - Guid: d40cfa2f87c1245aaa57a5cc482ad7f2
+    StoreId: 675113d18b930182c68ab9f9
+    Name: Community Flower Pack
+    ThumbnailUrl: https://d4v5j9dz6t9fz.cloudfront.net/web_uploads/56d223bf304521747339445a/675113d18b930182c68ab9f9/394db828d.jpg
+    AdditionalImageUrls:
+    - https://d4v5j9dz6t9fz.cloudfront.net/web_uploads/56d223bf304521747339445a/675113d18b930182c68ab9f9/19394dbdc28_0.jpg
+    - https://d4v5j9dz6t9fz.cloudfront.net/web_uploads/56d223bf304521747339445a/675113d18b930182c68ab9f9/19394dbff50_0.jpg
+    - https://d4v5j9dz6t9fz.cloudfront.net/web_uploads/56d223bf304521747339445a/675113d18b930182c68ab9f9/19394dc2660_0.jpg
+    - https://d4v5j9dz6t9fz.cloudfront.net/web_uploads/56d223bf304521747339445a/675113d18b930182c68ab9f9/19394dc4d70_0.jpg
+    - https://d4v5j9dz6t9fz.cloudfront.net/web_uploads/56d223bf304521747339445a/675113d18b930182c68ab9f9/19394dc6cb0_0.jpg
+    - https://d4v5j9dz6t9fz.cloudfront.net/web_uploads/56d223bf304521747339445a/675113d18b930182c68ab9f9/19394dc9b90_0.jpg
+    - https://d4v5j9dz6t9fz.cloudfront.net/web_uploads/56d223bf304521747339445a/675113d18b930182c68ab9f9/19394dcbad0_0.jpg
+    - https://d4v5j9dz6t9fz.cloudfront.net/web_uploads/56d223bf304521747339445a/675113d18b930182c68ab9f9/19394dcddf8_0.jpg
+    AdditionalAssetGUIDs:
+    - 256eac10901a7444194d0d53eb9da24a
+    - 3d23af7dd9a5d4f369d525ac69e4484b
+    - df6938c3a985d4d63b98515fd9b36a83
+    - 7448b976390c64007b08f44f0d2e0973
+    - 166f6289cdb9a4963bddfd6221016b2e
+    - f053d0e02653e460d919be1f8656b73b
+    - 2f6fbfb303a474494aef9efbf4362c7f
+    IsBundle: 1
